@@ -2,96 +2,129 @@
 
 ### Associate Software Engineer @ Accenture | SAP SD | Data Analytics | Data Science
 
-I'm a Computer Science & Data Science graduate currently working as an **Associate Software Engineer at Accenture**.
+I'm a Computer Science & Data Science graduate currently working as an
+**Associate Software Engineer at Accenture**.
 
-I enjoy solving problems through technology and data, with a growing focus on **Data Analytics, Machine Learning, and AI-driven solutions**.
+My interests lie at the intersection of **technology, data, and problem solving**.
+I enjoy working with Python and SQL, building analytical solutions, creating
+visualizations, and exploring machine learning and AI.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 💼 Associate Software Engineer at **Accenture**
-- 🔹 Currently working with **SAP SD**
+- 🔹 Working in **SAP SD**
 - 📊 Interested in **Data Analytics & Data Science**
 - 🐍 Working with **Python & SQL**
-- 📈 Building dashboards and analytical solutions with **Power BI**
+- 📈 Building dashboards and visualizations with **Power BI**
 - 🤖 Exploring **Machine Learning, Deep Learning & AI**
-- 🚀 Building practical projects to strengthen my technical and analytical skills
-- 📚 Continuously learning and improving
+- 🛠️ Building practical, data-driven projects
+- 📚 Continuously learning and improving my technical skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Data
-`Python` `SQL` `Java` `Pandas` `NumPy`
+### Programming
+`Python` `SQL` `Java`
 
-### Data Analytics & Visualization
-`Power BI` `DAX` `Excel` `Matplotlib` `Seaborn`
+### Data Analytics
+`Pandas` `NumPy` `Data Cleaning` `EDA`
+`Feature Engineering` `Statistical Analysis`
 
-### Machine Learning & AI
-`Scikit-learn` `TensorFlow` `Regression` `Classification` `LSTM`
+### Visualization & BI
+`Power BI` `DAX` `Excel`
+`Matplotlib` `Seaborn` `Streamlit`
 
-### Computer Vision & NLP
-`OpenCV` `Tesseract OCR` `EasyOCR` `NLP`
+### Machine Learning
+`Scikit-learn` `TensorFlow`
+`Regression` `Classification` `LSTM`
+
+### Computer Vision & OCR
+`OpenCV` `Tesseract OCR` `EasyOCR`
 
 ### Tools
-`Git` `GitHub` `Jupyter Notebook` `Streamlit`
+`Git` `GitHub` `Jupyter Notebook`
 
 ### Enterprise Technology
 `SAP SD`
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 📊 Data Analytics
-Business-focused analysis using **SQL, Python, Excel and Power BI**.
+### 📄 Intelligent Document & Image Scanner
 
-### 🤖 Machine Learning
-Predictive modeling and machine learning projects using **Python, Scikit-learn and TensorFlow**.
+**Python • OpenCV • Tesseract OCR • Streamlit**
 
-### 👁️ Computer Vision & AI
-Projects involving **OCR, image processing, NLP and intelligent document processing**.
+An OCR-based document processing project focused on extracting
+text from unstructured documents and converting it into
+structured data for further analysis.
 
-### 💻 Software Development
-Practical programming projects built using **Python and Java**.
-
-👉 **[Explore My Project Portfolio](https://github.com/barkha2oo4/github-portfolio)**
+🔗 [View Project](https://github.com/barkha2oo4/github-portfolio)
 
 ---
 
-## 🎯 Current Focus
+### 📈 Stock Price Prediction using LSTM
 
-I'm currently focused on strengthening my skills in:
+**Python • TensorFlow • Pandas • NumPy • Matplotlib**
 
-**Data Analytics → Machine Learning → Data Science**
+A time-series forecasting project using Long Short-Term Memory
+(LSTM) neural networks to analyze historical stock-price patterns
+and generate predictions.
 
-while gaining real-world experience in **enterprise technology and SAP SD**.
-
----
-
-## 📌 Let's Connect
-
-💼 **LinkedIn:** [Barkha Jha](https://www.linkedin.com/in/barkha-jha-2oo4/)
-
-📂 **Portfolio:** [GitHub Portfolio](https://github.com/barkha2oo4/github-portfolio)
+🔗 [View Project](https://github.com/barkha2oo4/github-portfolio)
 
 ---
 
-⭐ *Building. Learning. Improving — one project at a time.*## Hi there 👋
+### 🛒 E-Commerce Orders & Customer Analysis
 
-<!--
-**barkha2oo4/barkha2oo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SQL • Python • Pandas • Matplotlib • Seaborn**
 
-Here are some ideas to get you started:
+Analyzed 50,000+ order records using SQL and Python to understand
+customer behavior, revenue drivers, retention trends, and
+high-value customer segments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [View Project](https://github.com/barkha2oo4/github-portfolio)
+
+---
+
+## 📊 Areas of Interest
+
+**Data Analytics**  
+**Business Intelligence**  
+**Machine Learning**  
+**Data Visualization**  
+**AI & Automation**  
+**Enterprise Technology**
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Data Science**  
+Noida Institute of Engineering & Technology  
+2022 – 2026 | **CGPA: 8.60/10**
+
+---
+
+## 📜 Certifications
+
+- Data Analysis with Python — IBM
+- Python for Data Science, AI & Development — IBM
+- Building Machine Learning Systems with TensorFlow — Infosys Springboard
+- Deep Learning for Developers — Infosys Springboard
+- Data Analysis with Pandas and Python — Infosys Springboard
+
+---
+
+## 🔗 Explore My Work
+
+📂 **[Complete Project Portfolio](https://github.com/barkha2oo4/github-portfolio)**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/barkha-jha-2oo4/)**
+
+---
+
+### 💡 Technology • Data • Continuous Learning
